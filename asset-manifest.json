@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/matomas225/angis_uzduotis.git/static/css/main.10e9c433.chunk.css",
-    "main.js": "/matomas225/angis_uzduotis.git/static/js/main.b3a96015.chunk.js",
-    "main.js.map": "/matomas225/angis_uzduotis.git/static/js/main.b3a96015.chunk.js.map",
-    "runtime-main.js": "/matomas225/angis_uzduotis.git/static/js/runtime-main.632dcefd.js",
-    "runtime-main.js.map": "/matomas225/angis_uzduotis.git/static/js/runtime-main.632dcefd.js.map",
-    "static/css/2.0a9ec390.chunk.css": "/matomas225/angis_uzduotis.git/static/css/2.0a9ec390.chunk.css",
-    "static/js/2.9d5752f1.chunk.js": "/matomas225/angis_uzduotis.git/static/js/2.9d5752f1.chunk.js",
-    "static/js/2.9d5752f1.chunk.js.map": "/matomas225/angis_uzduotis.git/static/js/2.9d5752f1.chunk.js.map",
-    "index.html": "/matomas225/angis_uzduotis.git/index.html",
-    "static/css/2.0a9ec390.chunk.css.map": "/matomas225/angis_uzduotis.git/static/css/2.0a9ec390.chunk.css.map",
-    "static/css/main.10e9c433.chunk.css.map": "/matomas225/angis_uzduotis.git/static/css/main.10e9c433.chunk.css.map",
-    "static/js/2.9d5752f1.chunk.js.LICENSE.txt": "/matomas225/angis_uzduotis.git/static/js/2.9d5752f1.chunk.js.LICENSE.txt"
+    "main.css": "/angis_uzduotis/static/css/main.10e9c433.chunk.css",
+    "main.js": "/angis_uzduotis/static/js/main.b3a96015.chunk.js",
+    "main.js.map": "/angis_uzduotis/static/js/main.b3a96015.chunk.js.map",
+    "runtime-main.js": "/angis_uzduotis/static/js/runtime-main.c1c0fd26.js",
+    "runtime-main.js.map": "/angis_uzduotis/static/js/runtime-main.c1c0fd26.js.map",
+    "static/css/2.0a9ec390.chunk.css": "/angis_uzduotis/static/css/2.0a9ec390.chunk.css",
+    "static/js/2.9d5752f1.chunk.js": "/angis_uzduotis/static/js/2.9d5752f1.chunk.js",
+    "static/js/2.9d5752f1.chunk.js.map": "/angis_uzduotis/static/js/2.9d5752f1.chunk.js.map",
+    "index.html": "/angis_uzduotis/index.html",
+    "static/css/2.0a9ec390.chunk.css.map": "/angis_uzduotis/static/css/2.0a9ec390.chunk.css.map",
+    "static/css/main.10e9c433.chunk.css.map": "/angis_uzduotis/static/css/main.10e9c433.chunk.css.map",
+    "static/js/2.9d5752f1.chunk.js.LICENSE.txt": "/angis_uzduotis/static/js/2.9d5752f1.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.632dcefd.js",
+    "static/js/runtime-main.c1c0fd26.js",
     "static/css/2.0a9ec390.chunk.css",
     "static/js/2.9d5752f1.chunk.js",
     "static/css/main.10e9c433.chunk.css",
