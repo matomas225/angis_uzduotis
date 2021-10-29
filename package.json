@@ -2,7 +2,7 @@
   "name": "angis_uzduotis",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://matomas225.github.io/angis_uzduotis",
+  "homepage": "http://matomas225.github.io/angis_uzduotis/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^11.2.7",
