@@ -1,3 +1,3 @@
 # How to start a project
 
-run: npm run build
+run: npm run start
