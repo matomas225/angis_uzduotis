@@ -5,7 +5,6 @@ function App() {
   const [error, setError] = useState();
   const [itemList, setItemList] = useState([]);
   const [counter, setCounter] = useState(null);
-  const [checked, setChecked] = useState(false);
 
   useEffect(() => {
     setCounter(itemList.filter((item) => item.completed).length);
@@ -15,13 +14,11 @@ function App() {
     setItemList(
       itemList.map((item, index) => {
         if (index == event.target.id) {
-          console.log(index, event.target.id);
           return {
             ...item,
             completed: !item.completed,
           };
         } else {
-          console.log(index, event.target.id);
           return item;
         }
       })
